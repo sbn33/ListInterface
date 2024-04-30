@@ -6,7 +6,8 @@ import java.util.List;
 
 public class FruitMain {
 
-
+//1st commit
+	//2nd commit
 	public static void main(String[] args) {
 		List<Mobile> listOfFruits=new ArrayList<>();
 		
